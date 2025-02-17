@@ -31,4 +31,4 @@ This project is a stock market-based application developed as part of the LP2 co
 ## Getting Started
 1. Clone the repository:
    ```sh
-   git clone <repository_link>
+   git clone https://github.com/CrazAr374/LP2-Project-stock-market-.git
